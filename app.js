@@ -386,60 +386,80 @@ const data = [
 {"src": "00381_トランス_初期pt_初期pt_狙い_偶数_70G_あり","機種": "トランス", "きゅんきゅん": "初期pt", "ときめき": "初期pt", "ぷっちゅん": "狙い", "百の位G": "偶数", "下２桁G": "70G", "ベトラン": "あり"},
 {"src": "00382_トランス_初期pt_初期pt_狙い_偶数_70G_なし","機種": "トランス", "きゅんきゅん": "初期pt", "ときめき": "初期pt", "ぷっちゅん": "狙い", "百の位G": "偶数", "下２桁G": "70G", "ベトラン": "なし"},
 {"src": "00383_トランス_初期pt_初期pt_狙い_偶数_90G_あり","機種": "トランス", "きゅんきゅん": "初期pt", "ときめき": "初期pt", "ぷっちゅん": "狙い", "百の位G": "偶数", "下２桁G": "90G", "ベトラン": "あり"},
-{"src": "00384_トランス_初期pt_初期pt_狙い_偶数_90G_なし","機種": "トランス", "きゅんきゅん": "初期pt", "ときめき": "初期pt", "ぷっちゅん": "狙い", "百の位G": "偶数", "下２桁G": "90G", "ベトラン": "なし"},
+{"src": "00384_トランス_初期pt_初期pt_狙い_偶数_90G_なし","機種": "トランス", "きゅんきゅん": "初期pt", "ときめき": "初期pt", "ぷっちゅん": "狙い", "百の位G": "偶数", "下２桁G": "90G", "ベトラン": "なし"}
 
 ];
 
-/* ===== 列名（条件）取得 ===== */
-const columns = Object.keys(data[0]).filter(k => k !== "src");
+/*
+  ==============================
+  初期化
+  ==============================
+*/
 
-/* ===== 各条件の選択肢を生成 ===== */
-const controls = document.getElementById("controls");
-const selected = {};
+const filtersDiv = document.getElementById("filters");
+const galleryDiv = document.getElementById("gallery");
 
-columns.forEach(col => {
+// src 以外を条件キーとして取得
+const conditionKeys = Object.keys(data[0]).filter(key => key !== "src");
+
+// select要素保持
+const selects = {};
+
+// 条件UI生成
+conditionKeys.forEach(key => {
+  const group = document.createElement("div");
+  group.className = "filter-group";
+
+  const label = document.createElement("label");
+  label.textContent = key + "：";
+
   const select = document.createElement("select");
 
-  const values = [...new Set(data.map(row => row[col]))];
+  // ユニーク値のみ追加（「すべて」は作らない）
+  const values = [...new Set(data.map(item => item[key]))];
 
-  values.forEach(v => {
-    const opt = document.createElement("option");
-    opt.value = v;
-    opt.textContent = v;
-    select.appendChild(opt);
+  values.forEach(value => {
+    const option = document.createElement("option");
+    option.value = value;
+    option.textContent = value;
+    select.appendChild(option);
   });
 
-  selected[col] = values[0]; // 初期値は先頭
+  select.addEventListener("change", update);
 
-  select.addEventListener("change", () => {
-    selected[col] = select.value;
-    render();
-  });
+  group.appendChild(label);
+  group.appendChild(select);
+  filtersDiv.appendChild(group);
 
-  controls.appendChild(select);
+  selects[key] = select;
 });
 
-/* ===== 画像表示 ===== */
-const gallery = document.getElementById("gallery");
+// 初期表示
+update();
 
-function render() {
-  gallery.innerHTML = "";
+/*
+  ==============================
+  検索＆描画
+  ==============================
+*/
 
-  const filtered = data.filter(row => {
-    return columns.every(col => row[col] === selected[col]);
+function update() {
+  galleryDiv.innerHTML = "";
+
+  const filtered = data.filter(item => {
+    return conditionKeys.every(key => {
+      return item[key] === selects[key].value;
+    });
   });
 
-  filtered.forEach(row => {
+  // 一致した画像のみ表示（0件なら何も表示しない）
+  filtered.forEach(item => {
     const img = document.createElement("img");
-    img.src = "images/" + row.src;
-    gallery.appendChild(img);
+    img.src = `images/${item.src}`;
+    img.alt = item.src;
+    galleryDiv.appendChild(img);
   });
 }
-
-render();
-
-
-
 
 
 
