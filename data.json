@@ -1,4 +1,5 @@
-json
+// data.json
+[
 {"src": 0001_ノーマル_狙い_平均pt_平均pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
 {"src": 0002_ノーマル_狙い_平均pt_平均pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
 {"src": 0003_ノーマル_狙い_平均pt_平均pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
@@ -383,3 +384,4 @@ json
 {"src": 00382_トランス_初期pt_初期pt_狙い_偶数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
 {"src": 00383_トランス_初期pt_初期pt_狙い_偶数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
 {"src": 00384_トランス_初期pt_初期pt_狙い_偶数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+]
