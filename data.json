@@ -1,385 +1,385 @@
 json
-{"src": 0001, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,奇数,30G,あり"}
-{"src": 0002, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,奇数,30G,なし"}
-{"src": 0003, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,奇数,50G,あり"}
-{"src": 0004, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,奇数,50G,なし"}
-{"src": 0005, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,奇数,70G,あり"}
-{"src": 0006, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,奇数,70G,なし"}
-{"src": 0007, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,奇数,90G,あり"}
-{"src": 0008, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,奇数,90G,なし"}
-{"src": 0009, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,偶数,30G,あり"}
-{"src": 0010, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,偶数,30G,なし"}
-{"src": 0011, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,偶数,50G,あり"}
-{"src": 0012, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,偶数,50G,なし"}
-{"src": 0013, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,偶数,70G,あり"}
-{"src": 0014, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,偶数,70G,なし"}
-{"src": 0015, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,狙い,平均pt,平均pt,偶数,90G,あり"}
-{"src": 0016, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,狙い,平均pt,平均pt,偶数,90G,なし"}
-{"src": 0017, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,奇数,30G,あり"}
-{"src": 0018, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,奇数,30G,なし"}
-{"src": 0019, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,奇数,50G,あり"}
-{"src": 0020, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,奇数,50G,なし"}
-{"src": 0021, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,奇数,70G,あり"}
-{"src": 0022, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,奇数,70G,なし"}
-{"src": 0023, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,奇数,90G,あり"}
-{"src": 0024, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,奇数,90G,なし"}
-{"src": 0025, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,偶数,30G,あり"}
-{"src": 0026, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,偶数,30G,なし"}
-{"src": 0027, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,偶数,50G,あり"}
-{"src": 0028, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,偶数,50G,なし"}
-{"src": 0029, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,偶数,70G,あり"}
-{"src": 0030, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,偶数,70G,なし"}
-{"src": 0031, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,狙い,初期pt,平均pt,偶数,90G,あり"}
-{"src": 0032, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,狙い,初期pt,平均pt,偶数,90G,なし"}
-{"src": 0033, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,奇数,30G,あり"}
-{"src": 0034, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,奇数,30G,なし"}
-{"src": 0035, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,奇数,50G,あり"}
-{"src": 0036, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,奇数,50G,なし"}
-{"src": 0037, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,奇数,70G,あり"}
-{"src": 0038, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,奇数,70G,なし"}
-{"src": 0039, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,奇数,90G,あり"}
-{"src": 0040, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,奇数,90G,なし"}
-{"src": 0041, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,偶数,30G,あり"}
-{"src": 0042, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,偶数,30G,なし"}
-{"src": 0043, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,偶数,50G,あり"}
-{"src": 0044, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,偶数,50G,なし"}
-{"src": 0045, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,偶数,70G,あり"}
-{"src": 0046, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,偶数,70G,なし"}
-{"src": 0047, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,狙い,平均pt,初期pt,偶数,90G,あり"}
-{"src": 0048, "machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,狙い,平均pt,初期pt,偶数,90G,なし"}
-{"src": 0049, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,奇数,30G,あり"}
-{"src": 0050, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,奇数,30G,なし"}
-{"src": 0051, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,奇数,50G,あり"}
-{"src": 0052, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,奇数,50G,なし"}
-{"src": 0053, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,奇数,70G,あり"}
-{"src": 0054, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,奇数,70G,なし"}
-{"src": 0055, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,奇数,90G,あり"}
-{"src": 0056, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,奇数,90G,なし"}
-{"src": 0057, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,偶数,30G,あり"}
-{"src": 0058, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,偶数,30G,なし"}
-{"src": 0059, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,偶数,50G,あり"}
-{"src": 0060, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,偶数,50G,なし"}
-{"src": 0061, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,偶数,70G,あり"}
-{"src": 0062, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,偶数,70G,なし"}
-{"src": 0063, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,狙い,初期pt,初期pt,偶数,90G,あり"}
-{"src": 0064, "machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,狙い,初期pt,初期pt,偶数,90G,なし"}
-{"src": 0065, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,奇数,30G,あり"}
-{"src": 0066, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,奇数,30G,なし"}
-{"src": 0067, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,奇数,50G,あり"}
-{"src": 0068, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,奇数,50G,なし"}
-{"src": 0069, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,奇数,70G,あり"}
-{"src": 0070, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,奇数,70G,なし"}
-{"src": 0071, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,奇数,90G,あり"}
-{"src": 0072, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,奇数,90G,なし"}
-{"src": 0073, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,偶数,30G,あり"}
-{"src": 0074, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,偶数,30G,なし"}
-{"src": 0075, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,偶数,50G,あり"}
-{"src": 0076, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,偶数,50G,なし"}
-{"src": 0077, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,偶数,70G,あり"}
-{"src": 0078, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,偶数,70G,なし"}
-{"src": 0079, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,平均pt,狙い,平均pt,偶数,90G,あり"}
-{"src": 0080, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,平均pt,狙い,平均pt,偶数,90G,なし"}
-{"src": 0081, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,奇数,30G,あり"}
-{"src": 0082, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,奇数,30G,なし"}
-{"src": 0083, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,奇数,50G,あり"}
-{"src": 0084, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,奇数,50G,なし"}
-{"src": 0085, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,奇数,70G,あり"}
-{"src": 0086, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,奇数,70G,なし"}
-{"src": 0087, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,奇数,90G,あり"}
-{"src": 0088, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,奇数,90G,なし"}
-{"src": 0089, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,偶数,30G,あり"}
-{"src": 0090, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,偶数,30G,なし"}
-{"src": 0091, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,偶数,50G,あり"}
-{"src": 0092, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,偶数,50G,なし"}
-{"src": 0093, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,偶数,70G,あり"}
-{"src": 0094, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,偶数,70G,なし"}
-{"src": 0095, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,初期pt,狙い,平均pt,偶数,90G,あり"}
-{"src": 0096, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,初期pt,狙い,平均pt,偶数,90G,なし"}
-{"src": 0097, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,奇数,30G,あり"}
-{"src": 0098, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,奇数,30G,なし"}
-{"src": 0099, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,奇数,50G,あり"}
-{"src": 0100, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,奇数,50G,なし"}
-{"src": 0101, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,奇数,70G,あり"}
-{"src": 0102, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,奇数,70G,なし"}
-{"src": 0103, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,奇数,90G,あり"}
-{"src": 0104, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,奇数,90G,なし"}
-{"src": 0105, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,偶数,30G,あり"}
-{"src": 0106, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,偶数,30G,なし"}
-{"src": 0107, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,偶数,50G,あり"}
-{"src": 0108, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,偶数,50G,なし"}
-{"src": 0109, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,偶数,70G,あり"}
-{"src": 0110, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,偶数,70G,なし"}
-{"src": 0111, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,平均pt,狙い,初期pt,偶数,90G,あり"}
-{"src": 0112, "machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,平均pt,狙い,初期pt,偶数,90G,なし"}
-{"src": 0113, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,奇数,30G,あり"}
-{"src": 0114, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,奇数,30G,なし"}
-{"src": 0115, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,奇数,50G,あり"}
-{"src": 0116, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,奇数,50G,なし"}
-{"src": 0117, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,奇数,70G,あり"}
-{"src": 0118, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,奇数,70G,なし"}
-{"src": 0119, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,奇数,90G,あり"}
-{"src": 0120, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,奇数,90G,なし"}
-{"src": 0121, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,偶数,30G,あり"}
-{"src": 0122, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,偶数,30G,なし"}
-{"src": 0123, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,偶数,50G,あり"}
-{"src": 0124, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,偶数,50G,なし"}
-{"src": 0125, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,偶数,70G,あり"}
-{"src": 0126, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,偶数,70G,なし"}
-{"src": 0127, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,初期pt,狙い,初期pt,偶数,90G,あり"}
-{"src": 0128, "machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,初期pt,狙い,初期pt,偶数,90G,なし"}
-{"src": 0129, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,奇数,30G,あり"}
-{"src": 0130, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,奇数,30G,なし"}
-{"src": 0131, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,奇数,50G,あり"}
-{"src": 0132, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,奇数,50G,なし"}
-{"src": 0133, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,奇数,70G,あり"}
-{"src": 0134, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,奇数,70G,なし"}
-{"src": 0135, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,奇数,90G,あり"}
-{"src": 0136, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,奇数,90G,なし"}
-{"src": 0137, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,偶数,30G,あり"}
-{"src": 0138, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,偶数,30G,なし"}
-{"src": 0139, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,偶数,50G,あり"}
-{"src": 0140, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,偶数,50G,なし"}
-{"src": 0141, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,偶数,70G,あり"}
-{"src": 0142, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,偶数,70G,なし"}
-{"src": 0143, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,平均pt,平均pt,狙い,偶数,90G,あり"}
-{"src": 0144, "machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,平均pt,平均pt,狙い,偶数,90G,なし"}
-{"src": 0145, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,奇数,30G,あり"}
-{"src": 0146, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,奇数,30G,なし"}
-{"src": 0147, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,奇数,50G,あり"}
-{"src": 0148, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,奇数,50G,なし"}
-{"src": 0149, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,奇数,70G,あり"}
-{"src": 0150, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,奇数,70G,なし"}
-{"src": 0151, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,奇数,90G,あり"}
-{"src": 0152, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,奇数,90G,なし"}
-{"src": 0153, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,偶数,30G,あり"}
-{"src": 0154, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,偶数,30G,なし"}
-{"src": 0155, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,偶数,50G,あり"}
-{"src": 0156, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,偶数,50G,なし"}
-{"src": 0157, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,偶数,70G,あり"}
-{"src": 0158, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,偶数,70G,なし"}
-{"src": 0159, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,初期pt,平均pt,狙い,偶数,90G,あり"}
-{"src": 0160, "machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,初期pt,平均pt,狙い,偶数,90G,なし"}
-{"src": 0161, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,奇数,30G,あり"}
-{"src": 0162, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,奇数,30G,なし"}
-{"src": 0163, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,奇数,50G,あり"}
-{"src": 0164, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,奇数,50G,なし"}
-{"src": 0165, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,奇数,70G,あり"}
-{"src": 0166, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,奇数,70G,なし"}
-{"src": 0167, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,奇数,90G,あり"}
-{"src": 0168, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,奇数,90G,なし"}
-{"src": 0169, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,偶数,30G,あり"}
-{"src": 0170, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,偶数,30G,なし"}
-{"src": 0171, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,偶数,50G,あり"}
-{"src": 0172, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,偶数,50G,なし"}
-{"src": 0173, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,偶数,70G,あり"}
-{"src": 0174, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,偶数,70G,なし"}
-{"src": 0175, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,平均pt,初期pt,狙い,偶数,90G,あり"}
-{"src": 0176, "machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,平均pt,初期pt,狙い,偶数,90G,なし"}
-{"src": 0177, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,奇数,30G,あり"}
-{"src": 0178, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,奇数,30G,なし"}
-{"src": 0179, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,奇数,50G,あり"}
-{"src": 0180, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,奇数,50G,なし"}
-{"src": 0181, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,奇数,70G,あり"}
-{"src": 0182, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,奇数,70G,なし"}
-{"src": 0183, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,奇数,90G,あり"}
-{"src": 0184, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,奇数,90G,なし"}
-{"src": 0185, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,偶数,30G,あり"}
-{"src": 0186, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,偶数,30G,なし"}
-{"src": 0187, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,偶数,50G,あり"}
-{"src": 0188, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,偶数,50G,なし"}
-{"src": 0189, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,偶数,70G,あり"}
-{"src": 0190, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,偶数,70G,なし"}
-{"src": 0191, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,ノーマル,初期pt,初期pt,狙い,偶数,90G,あり"}
-{"src": 0192, "machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,ノーマル,初期pt,初期pt,狙い,偶数,90G,なし"}
-{"src": 0193, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,狙い,平均pt,平均pt,奇数,30G,あり"}
-{"src": 0194, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,狙い,平均pt,平均pt,奇数,30G,なし"}
-{"src": 0195, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,狙い,平均pt,平均pt,奇数,50G,あり"}
-{"src": 0196, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,狙い,平均pt,平均pt,奇数,50G,なし"}
-{"src": 0197, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,狙い,平均pt,平均pt,奇数,70G,あり"}
-{"src": 0198, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,狙い,平均pt,平均pt,奇数,70G,なし"}
-{"src": 0199, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,狙い,平均pt,平均pt,奇数,90G,あり"}
-{"src": 0200, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,狙い,平均pt,平均pt,奇数,90G,なし"}
-{"src": 0201, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,狙い,平均pt,平均pt,偶数,30G,あり"}
-{"src": 0202, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,狙い,平均pt,平均pt,偶数,30G,なし"}
-{"src": 0203, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,狙い,平均pt,平均pt,偶数,50G,あり"}
-{"src": 0204, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,狙い,平均pt,平均pt,偶数,50G,なし"}
-{"src": 0205, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,狙い,平均pt,平均pt,偶数,70G,あり"}
-{"src": 0206, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,狙い,平均pt,平均pt,偶数,70G,なし"}
-{"src": 0207, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,狙い,平均pt,平均pt,偶数,90G,あり"}
-{"src": 0208, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,狙い,平均pt,平均pt,偶数,90G,なし"}
-{"src": 0209, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,狙い,初期pt,平均pt,奇数,30G,あり"}
-{"src": 0210, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,狙い,初期pt,平均pt,奇数,30G,なし"}
-{"src": 0211, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,狙い,初期pt,平均pt,奇数,50G,あり"}
-{"src": 0212, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,狙い,初期pt,平均pt,奇数,50G,なし"}
-{"src": 0213, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,狙い,初期pt,平均pt,奇数,70G,あり"}
-{"src": 0214, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,狙い,初期pt,平均pt,奇数,70G,なし"}
-{"src": 0215, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,狙い,初期pt,平均pt,奇数,90G,あり"}
-{"src": 0216, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,狙い,初期pt,平均pt,奇数,90G,なし"}
-{"src": 0217, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,狙い,初期pt,平均pt,偶数,30G,あり"}
-{"src": 0218, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,狙い,初期pt,平均pt,偶数,30G,なし"}
-{"src": 0219, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,狙い,初期pt,平均pt,偶数,50G,あり"}
-{"src": 0220, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,狙い,初期pt,平均pt,偶数,50G,なし"}
-{"src": 0221, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,狙い,初期pt,平均pt,偶数,70G,あり"}
-{"src": 0222, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,狙い,初期pt,平均pt,偶数,70G,なし"}
-{"src": 0223, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,狙い,初期pt,平均pt,偶数,90G,あり"}
-{"src": 0224, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,狙い,初期pt,平均pt,偶数,90G,なし"}
-{"src": 0225, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,狙い,平均pt,初期pt,奇数,30G,あり"}
-{"src": 0226, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,狙い,平均pt,初期pt,奇数,30G,なし"}
-{"src": 0227, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,狙い,平均pt,初期pt,奇数,50G,あり"}
-{"src": 0228, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,狙い,平均pt,初期pt,奇数,50G,なし"}
-{"src": 0229, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,狙い,平均pt,初期pt,奇数,70G,あり"}
-{"src": 0230, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,狙い,平均pt,初期pt,奇数,70G,なし"}
-{"src": 0231, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,狙い,平均pt,初期pt,奇数,90G,あり"}
-{"src": 0232, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,狙い,平均pt,初期pt,奇数,90G,なし"}
-{"src": 0233, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,狙い,平均pt,初期pt,偶数,30G,あり"}
-{"src": 0234, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,狙い,平均pt,初期pt,偶数,30G,なし"}
-{"src": 0235, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,狙い,平均pt,初期pt,偶数,50G,あり"}
-{"src": 0236, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,狙い,平均pt,初期pt,偶数,50G,なし"}
-{"src": 0237, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,狙い,平均pt,初期pt,偶数,70G,あり"}
-{"src": 0238, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,狙い,平均pt,初期pt,偶数,70G,なし"}
-{"src": 0239, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,狙い,平均pt,初期pt,偶数,90G,あり"}
-{"src": 0240, "machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,狙い,平均pt,初期pt,偶数,90G,なし"}
-{"src": 0241, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,狙い,初期pt,初期pt,奇数,30G,あり"}
-{"src": 0242, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,狙い,初期pt,初期pt,奇数,30G,なし"}
-{"src": 0243, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,狙い,初期pt,初期pt,奇数,50G,あり"}
-{"src": 0244, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,狙い,初期pt,初期pt,奇数,50G,なし"}
-{"src": 0245, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,狙い,初期pt,初期pt,奇数,70G,あり"}
-{"src": 0246, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,狙い,初期pt,初期pt,奇数,70G,なし"}
-{"src": 0247, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,狙い,初期pt,初期pt,奇数,90G,あり"}
-{"src": 0248, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,狙い,初期pt,初期pt,奇数,90G,なし"}
-{"src": 0249, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,狙い,初期pt,初期pt,偶数,30G,あり"}
-{"src": 0250, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,狙い,初期pt,初期pt,偶数,30G,なし"}
-{"src": 0251, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,狙い,初期pt,初期pt,偶数,50G,あり"}
-{"src": 0252, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,狙い,初期pt,初期pt,偶数,50G,なし"}
-{"src": 0253, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,狙い,初期pt,初期pt,偶数,70G,あり"}
-{"src": 0254, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,狙い,初期pt,初期pt,偶数,70G,なし"}
-{"src": 0255, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,狙い,初期pt,初期pt,偶数,90G,あり"}
-{"src": 0256, "machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,狙い,初期pt,初期pt,偶数,90G,なし"}
-{"src": 0257, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,平均pt,狙い,平均pt,奇数,30G,あり"}
-{"src": 0258, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,平均pt,狙い,平均pt,奇数,30G,なし"}
-{"src": 0259, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,平均pt,狙い,平均pt,奇数,50G,あり"}
-{"src": 0260, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,平均pt,狙い,平均pt,奇数,50G,なし"}
-{"src": 0261, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,平均pt,狙い,平均pt,奇数,70G,あり"}
-{"src": 0262, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,平均pt,狙い,平均pt,奇数,70G,なし"}
-{"src": 0263, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,平均pt,狙い,平均pt,奇数,90G,あり"}
-{"src": 0264, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,平均pt,狙い,平均pt,奇数,90G,なし"}
-{"src": 0265, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,平均pt,狙い,平均pt,偶数,30G,あり"}
-{"src": 0266, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,平均pt,狙い,平均pt,偶数,30G,なし"}
-{"src": 0267, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,平均pt,狙い,平均pt,偶数,50G,あり"}
-{"src": 0268, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,平均pt,狙い,平均pt,偶数,50G,なし"}
-{"src": 0269, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,平均pt,狙い,平均pt,偶数,70G,あり"}
-{"src": 0270, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,平均pt,狙い,平均pt,偶数,70G,なし"}
-{"src": 0271, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,平均pt,狙い,平均pt,偶数,90G,あり"}
-{"src": 0272, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,平均pt,狙い,平均pt,偶数,90G,なし"}
-{"src": 0273, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,初期pt,狙い,平均pt,奇数,30G,あり"}
-{"src": 0274, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,初期pt,狙い,平均pt,奇数,30G,なし"}
-{"src": 0275, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,初期pt,狙い,平均pt,奇数,50G,あり"}
-{"src": 0276, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,初期pt,狙い,平均pt,奇数,50G,なし"}
-{"src": 0277, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,初期pt,狙い,平均pt,奇数,70G,あり"}
-{"src": 0278, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,初期pt,狙い,平均pt,奇数,70G,なし"}
-{"src": 0279, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,初期pt,狙い,平均pt,奇数,90G,あり"}
-{"src": 0280, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,初期pt,狙い,平均pt,奇数,90G,なし"}
-{"src": 0281, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,初期pt,狙い,平均pt,偶数,30G,あり"}
-{"src": 0282, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,初期pt,狙い,平均pt,偶数,30G,なし"}
-{"src": 0283, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,初期pt,狙い,平均pt,偶数,50G,あり"}
-{"src": 0284, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,初期pt,狙い,平均pt,偶数,50G,なし"}
-{"src": 0285, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,初期pt,狙い,平均pt,偶数,70G,あり"}
-{"src": 0286, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,初期pt,狙い,平均pt,偶数,70G,なし"}
-{"src": 0287, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,初期pt,狙い,平均pt,偶数,90G,あり"}
-{"src": 0288, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,初期pt,狙い,平均pt,偶数,90G,なし"}
-{"src": 0289, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,平均pt,狙い,初期pt,奇数,30G,あり"}
-{"src": 0290, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,平均pt,狙い,初期pt,奇数,30G,なし"}
-{"src": 0291, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,平均pt,狙い,初期pt,奇数,50G,あり"}
-{"src": 0292, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,平均pt,狙い,初期pt,奇数,50G,なし"}
-{"src": 0293, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,平均pt,狙い,初期pt,奇数,70G,あり"}
-{"src": 0294, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,平均pt,狙い,初期pt,奇数,70G,なし"}
-{"src": 0295, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,平均pt,狙い,初期pt,奇数,90G,あり"}
-{"src": 0296, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,平均pt,狙い,初期pt,奇数,90G,なし"}
-{"src": 0297, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,平均pt,狙い,初期pt,偶数,30G,あり"}
-{"src": 0298, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,平均pt,狙い,初期pt,偶数,30G,なし"}
-{"src": 0299, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,平均pt,狙い,初期pt,偶数,50G,あり"}
-{"src": 0300, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,平均pt,狙い,初期pt,偶数,50G,なし"}
-{"src": 0301, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,平均pt,狙い,初期pt,偶数,70G,あり"}
-{"src": 0302, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,平均pt,狙い,初期pt,偶数,70G,なし"}
-{"src": 0303, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,平均pt,狙い,初期pt,偶数,90G,あり"}
-{"src": 0304, "machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,平均pt,狙い,初期pt,偶数,90G,なし"}
-{"src": 0305, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,初期pt,狙い,初期pt,奇数,30G,あり"}
-{"src": 0306, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,初期pt,狙い,初期pt,奇数,30G,なし"}
-{"src": 0307, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,初期pt,狙い,初期pt,奇数,50G,あり"}
-{"src": 0308, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,初期pt,狙い,初期pt,奇数,50G,なし"}
-{"src": 0309, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,初期pt,狙い,初期pt,奇数,70G,あり"}
-{"src": 0310, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,初期pt,狙い,初期pt,奇数,70G,なし"}
-{"src": 0311, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,初期pt,狙い,初期pt,奇数,90G,あり"}
-{"src": 0312, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,初期pt,狙い,初期pt,奇数,90G,なし"}
-{"src": 0313, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,初期pt,狙い,初期pt,偶数,30G,あり"}
-{"src": 0314, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,初期pt,狙い,初期pt,偶数,30G,なし"}
-{"src": 0315, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,初期pt,狙い,初期pt,偶数,50G,あり"}
-{"src": 0316, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,初期pt,狙い,初期pt,偶数,50G,なし"}
-{"src": 0317, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,初期pt,狙い,初期pt,偶数,70G,あり"}
-{"src": 0318, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,初期pt,狙い,初期pt,偶数,70G,なし"}
-{"src": 0319, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,初期pt,狙い,初期pt,偶数,90G,あり"}
-{"src": 0320, "machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,初期pt,狙い,初期pt,偶数,90G,なし"}
-{"src": 0321, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,平均pt,平均pt,狙い,奇数,30G,あり"}
-{"src": 0322, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,平均pt,平均pt,狙い,奇数,30G,なし"}
-{"src": 0323, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,平均pt,平均pt,狙い,奇数,50G,あり"}
-{"src": 0324, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,平均pt,平均pt,狙い,奇数,50G,なし"}
-{"src": 0325, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,平均pt,平均pt,狙い,奇数,70G,あり"}
-{"src": 0326, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,平均pt,平均pt,狙い,奇数,70G,なし"}
-{"src": 0327, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,平均pt,平均pt,狙い,奇数,90G,あり"}
-{"src": 0328, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,平均pt,平均pt,狙い,奇数,90G,なし"}
-{"src": 0329, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,平均pt,平均pt,狙い,偶数,30G,あり"}
-{"src": 0330, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,平均pt,平均pt,狙い,偶数,30G,なし"}
-{"src": 0331, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,平均pt,平均pt,狙い,偶数,50G,あり"}
-{"src": 0332, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,平均pt,平均pt,狙い,偶数,50G,なし"}
-{"src": 0333, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,平均pt,平均pt,狙い,偶数,70G,あり"}
-{"src": 0334, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,平均pt,平均pt,狙い,偶数,70G,なし"}
-{"src": 0335, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,平均pt,平均pt,狙い,偶数,90G,あり"}
-{"src": 0336, "machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,平均pt,平均pt,狙い,偶数,90G,なし"}
-{"src": 0337, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,初期pt,平均pt,狙い,奇数,30G,あり"}
-{"src": 0338, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,初期pt,平均pt,狙い,奇数,30G,なし"}
-{"src": 0339, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,初期pt,平均pt,狙い,奇数,50G,あり"}
-{"src": 0340, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,初期pt,平均pt,狙い,奇数,50G,なし"}
-{"src": 0341, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,初期pt,平均pt,狙い,奇数,70G,あり"}
-{"src": 0342, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,初期pt,平均pt,狙い,奇数,70G,なし"}
-{"src": 0343, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,初期pt,平均pt,狙い,奇数,90G,あり"}
-{"src": 0344, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,初期pt,平均pt,狙い,奇数,90G,なし"}
-{"src": 0345, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,初期pt,平均pt,狙い,偶数,30G,あり"}
-{"src": 0346, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,初期pt,平均pt,狙い,偶数,30G,なし"}
-{"src": 0347, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,初期pt,平均pt,狙い,偶数,50G,あり"}
-{"src": 0348, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,初期pt,平均pt,狙い,偶数,50G,なし"}
-{"src": 0349, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,初期pt,平均pt,狙い,偶数,70G,あり"}
-{"src": 0350, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,初期pt,平均pt,狙い,偶数,70G,なし"}
-{"src": 0351, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,初期pt,平均pt,狙い,偶数,90G,あり"}
-{"src": 0352, "machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,初期pt,平均pt,狙い,偶数,90G,なし"}
-{"src": 0353, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,平均pt,初期pt,狙い,奇数,30G,あり"}
-{"src": 0354, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,平均pt,初期pt,狙い,奇数,30G,なし"}
-{"src": 0355, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,平均pt,初期pt,狙い,奇数,50G,あり"}
-{"src": 0356, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,平均pt,初期pt,狙い,奇数,50G,なし"}
-{"src": 0357, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,平均pt,初期pt,狙い,奇数,70G,あり"}
-{"src": 0358, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,平均pt,初期pt,狙い,奇数,70G,なし"}
-{"src": 0359, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,平均pt,初期pt,狙い,奇数,90G,あり"}
-{"src": 0360, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,平均pt,初期pt,狙い,奇数,90G,なし"}
-{"src": 0361, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,平均pt,初期pt,狙い,偶数,30G,あり"}
-{"src": 0362, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,平均pt,初期pt,狙い,偶数,30G,なし"}
-{"src": 0363, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,平均pt,初期pt,狙い,偶数,50G,あり"}
-{"src": 0364, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,平均pt,初期pt,狙い,偶数,50G,なし"}
-{"src": 0365, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,平均pt,初期pt,狙い,偶数,70G,あり"}
-{"src": 0366, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,平均pt,初期pt,狙い,偶数,70G,なし"}
-{"src": 0367, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,平均pt,初期pt,狙い,偶数,90G,あり"}
-{"src": 0368, "machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,平均pt,初期pt,狙い,偶数,90G,なし"}
-{"src": 0369, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり,トランス,初期pt,初期pt,狙い,奇数,30G,あり"}
-{"src": 0370, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし,トランス,初期pt,初期pt,狙い,奇数,30G,なし"}
-{"src": 0371, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり,トランス,初期pt,初期pt,狙い,奇数,50G,あり"}
-{"src": 0372, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし,トランス,初期pt,初期pt,狙い,奇数,50G,なし"}
-{"src": 0373, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり,トランス,初期pt,初期pt,狙い,奇数,70G,あり"}
-{"src": 0374, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし,トランス,初期pt,初期pt,狙い,奇数,70G,なし"}
-{"src": 0375, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり,トランス,初期pt,初期pt,狙い,奇数,90G,あり"}
-{"src": 0376, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし,トランス,初期pt,初期pt,狙い,奇数,90G,なし"}
-{"src": 0377, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり,トランス,初期pt,初期pt,狙い,偶数,30G,あり"}
-{"src": 0378, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし,トランス,初期pt,初期pt,狙い,偶数,30G,なし"}
-{"src": 0379, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり,トランス,初期pt,初期pt,狙い,偶数,50G,あり"}
-{"src": 0380, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし,トランス,初期pt,初期pt,狙い,偶数,50G,なし"}
-{"src": 0381, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり,トランス,初期pt,初期pt,狙い,偶数,70G,あり"}
-{"src": 0382, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし,トランス,初期pt,初期pt,狙い,偶数,70G,なし"}
-{"src": 0383, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり,トランス,初期pt,初期pt,狙い,偶数,90G,あり"}
-{"src": 0384, "machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし,トランス,初期pt,初期pt,狙い,偶数,90G,なし"}
+{"src": 0001_ノーマル_狙い_平均pt_平均pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0002_ノーマル_狙い_平均pt_平均pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0003_ノーマル_狙い_平均pt_平均pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0004_ノーマル_狙い_平均pt_平均pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0005_ノーマル_狙い_平均pt_平均pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0006_ノーマル_狙い_平均pt_平均pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0007_ノーマル_狙い_平均pt_平均pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0008_ノーマル_狙い_平均pt_平均pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0009_ノーマル_狙い_平均pt_平均pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0010_ノーマル_狙い_平均pt_平均pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0011_ノーマル_狙い_平均pt_平均pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0012_ノーマル_狙い_平均pt_平均pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0013_ノーマル_狙い_平均pt_平均pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0014_ノーマル_狙い_平均pt_平均pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0015_ノーマル_狙い_平均pt_平均pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0016_ノーマル_狙い_平均pt_平均pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0017_ノーマル_狙い_初期pt_平均pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0018_ノーマル_狙い_初期pt_平均pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0019_ノーマル_狙い_初期pt_平均pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0020_ノーマル_狙い_初期pt_平均pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0021_ノーマル_狙い_初期pt_平均pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0022_ノーマル_狙い_初期pt_平均pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0023_ノーマル_狙い_初期pt_平均pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0024_ノーマル_狙い_初期pt_平均pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0025_ノーマル_狙い_初期pt_平均pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0026_ノーマル_狙い_初期pt_平均pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0027_ノーマル_狙い_初期pt_平均pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0028_ノーマル_狙い_初期pt_平均pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0029_ノーマル_狙い_初期pt_平均pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0030_ノーマル_狙い_初期pt_平均pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0031_ノーマル_狙い_初期pt_平均pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0032_ノーマル_狙い_初期pt_平均pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0033_ノーマル_狙い_平均pt_初期pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0034_ノーマル_狙い_平均pt_初期pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0035_ノーマル_狙い_平均pt_初期pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0036_ノーマル_狙い_平均pt_初期pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0037_ノーマル_狙い_平均pt_初期pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0038_ノーマル_狙い_平均pt_初期pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0039_ノーマル_狙い_平均pt_初期pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0040_ノーマル_狙い_平均pt_初期pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0041_ノーマル_狙い_平均pt_初期pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0042_ノーマル_狙い_平均pt_初期pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0043_ノーマル_狙い_平均pt_初期pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0044_ノーマル_狙い_平均pt_初期pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0045_ノーマル_狙い_平均pt_初期pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0046_ノーマル_狙い_平均pt_初期pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0047_ノーマル_狙い_平均pt_初期pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0048_ノーマル_狙い_平均pt_初期pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0049_ノーマル_狙い_初期pt_初期pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0050_ノーマル_狙い_初期pt_初期pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0051_ノーマル_狙い_初期pt_初期pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0052_ノーマル_狙い_初期pt_初期pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0053_ノーマル_狙い_初期pt_初期pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0054_ノーマル_狙い_初期pt_初期pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0055_ノーマル_狙い_初期pt_初期pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0056_ノーマル_狙い_初期pt_初期pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0057_ノーマル_狙い_初期pt_初期pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0058_ノーマル_狙い_初期pt_初期pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0059_ノーマル_狙い_初期pt_初期pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0060_ノーマル_狙い_初期pt_初期pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0061_ノーマル_狙い_初期pt_初期pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0062_ノーマル_狙い_初期pt_初期pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0063_ノーマル_狙い_初期pt_初期pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0064_ノーマル_狙い_初期pt_初期pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0065_ノーマル_平均pt_狙い_平均pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0066_ノーマル_平均pt_狙い_平均pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0067_ノーマル_平均pt_狙い_平均pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0068_ノーマル_平均pt_狙い_平均pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0069_ノーマル_平均pt_狙い_平均pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0070_ノーマル_平均pt_狙い_平均pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0071_ノーマル_平均pt_狙い_平均pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0072_ノーマル_平均pt_狙い_平均pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0073_ノーマル_平均pt_狙い_平均pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0074_ノーマル_平均pt_狙い_平均pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0075_ノーマル_平均pt_狙い_平均pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0076_ノーマル_平均pt_狙い_平均pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0077_ノーマル_平均pt_狙い_平均pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0078_ノーマル_平均pt_狙い_平均pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0079_ノーマル_平均pt_狙い_平均pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0080_ノーマル_平均pt_狙い_平均pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0081_ノーマル_初期pt_狙い_平均pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0082_ノーマル_初期pt_狙い_平均pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0083_ノーマル_初期pt_狙い_平均pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 0084_ノーマル_初期pt_狙い_平均pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 0085_ノーマル_初期pt_狙い_平均pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 0086_ノーマル_初期pt_狙い_平均pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 0087_ノーマル_初期pt_狙い_平均pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 0088_ノーマル_初期pt_狙い_平均pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 0089_ノーマル_初期pt_狙い_平均pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 0090_ノーマル_初期pt_狙い_平均pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 0091_ノーマル_初期pt_狙い_平均pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 0092_ノーマル_初期pt_狙い_平均pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 0093_ノーマル_初期pt_狙い_平均pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 0094_ノーマル_初期pt_狙い_平均pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 0095_ノーマル_初期pt_狙い_平均pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 0096_ノーマル_初期pt_狙い_平均pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 0097_ノーマル_平均pt_狙い_初期pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 0098_ノーマル_平均pt_狙い_初期pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 0099_ノーマル_平均pt_狙い_初期pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00100_ノーマル_平均pt_狙い_初期pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00101_ノーマル_平均pt_狙い_初期pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00102_ノーマル_平均pt_狙い_初期pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00103_ノーマル_平均pt_狙い_初期pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00104_ノーマル_平均pt_狙い_初期pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00105_ノーマル_平均pt_狙い_初期pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00106_ノーマル_平均pt_狙い_初期pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00107_ノーマル_平均pt_狙い_初期pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00108_ノーマル_平均pt_狙い_初期pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00109_ノーマル_平均pt_狙い_初期pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00110_ノーマル_平均pt_狙い_初期pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00111_ノーマル_平均pt_狙い_初期pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00112_ノーマル_平均pt_狙い_初期pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00113_ノーマル_初期pt_狙い_初期pt_奇数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00114_ノーマル_初期pt_狙い_初期pt_奇数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00115_ノーマル_初期pt_狙い_初期pt_奇数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00116_ノーマル_初期pt_狙い_初期pt_奇数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00117_ノーマル_初期pt_狙い_初期pt_奇数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00118_ノーマル_初期pt_狙い_初期pt_奇数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00119_ノーマル_初期pt_狙い_初期pt_奇数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00120_ノーマル_初期pt_狙い_初期pt_奇数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00121_ノーマル_初期pt_狙い_初期pt_偶数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00122_ノーマル_初期pt_狙い_初期pt_偶数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00123_ノーマル_初期pt_狙い_初期pt_偶数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00124_ノーマル_初期pt_狙い_初期pt_偶数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00125_ノーマル_初期pt_狙い_初期pt_偶数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00126_ノーマル_初期pt_狙い_初期pt_偶数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00127_ノーマル_初期pt_狙い_初期pt_偶数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00128_ノーマル_初期pt_狙い_初期pt_偶数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00129_ノーマル_平均pt_平均pt_狙い_奇数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00130_ノーマル_平均pt_平均pt_狙い_奇数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00131_ノーマル_平均pt_平均pt_狙い_奇数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00132_ノーマル_平均pt_平均pt_狙い_奇数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00133_ノーマル_平均pt_平均pt_狙い_奇数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00134_ノーマル_平均pt_平均pt_狙い_奇数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00135_ノーマル_平均pt_平均pt_狙い_奇数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00136_ノーマル_平均pt_平均pt_狙い_奇数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00137_ノーマル_平均pt_平均pt_狙い_偶数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00138_ノーマル_平均pt_平均pt_狙い_偶数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00139_ノーマル_平均pt_平均pt_狙い_偶数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00140_ノーマル_平均pt_平均pt_狙い_偶数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00141_ノーマル_平均pt_平均pt_狙い_偶数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00142_ノーマル_平均pt_平均pt_狙い_偶数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00143_ノーマル_平均pt_平均pt_狙い_偶数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00144_ノーマル_平均pt_平均pt_狙い_偶数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00145_ノーマル_初期pt_平均pt_狙い_奇数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00146_ノーマル_初期pt_平均pt_狙い_奇数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00147_ノーマル_初期pt_平均pt_狙い_奇数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00148_ノーマル_初期pt_平均pt_狙い_奇数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00149_ノーマル_初期pt_平均pt_狙い_奇数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00150_ノーマル_初期pt_平均pt_狙い_奇数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00151_ノーマル_初期pt_平均pt_狙い_奇数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00152_ノーマル_初期pt_平均pt_狙い_奇数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00153_ノーマル_初期pt_平均pt_狙い_偶数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00154_ノーマル_初期pt_平均pt_狙い_偶数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00155_ノーマル_初期pt_平均pt_狙い_偶数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00156_ノーマル_初期pt_平均pt_狙い_偶数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00157_ノーマル_初期pt_平均pt_狙い_偶数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00158_ノーマル_初期pt_平均pt_狙い_偶数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00159_ノーマル_初期pt_平均pt_狙い_偶数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00160_ノーマル_初期pt_平均pt_狙い_偶数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00161_ノーマル_平均pt_初期pt_狙い_奇数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00162_ノーマル_平均pt_初期pt_狙い_奇数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00163_ノーマル_平均pt_初期pt_狙い_奇数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00164_ノーマル_平均pt_初期pt_狙い_奇数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00165_ノーマル_平均pt_初期pt_狙い_奇数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00166_ノーマル_平均pt_初期pt_狙い_奇数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00167_ノーマル_平均pt_初期pt_狙い_奇数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00168_ノーマル_平均pt_初期pt_狙い_奇数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00169_ノーマル_平均pt_初期pt_狙い_偶数_30G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00170_ノーマル_平均pt_初期pt_狙い_偶数_30G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00171_ノーマル_平均pt_初期pt_狙い_偶数_50G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00172_ノーマル_平均pt_初期pt_狙い_偶数_50G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00173_ノーマル_平均pt_初期pt_狙い_偶数_70G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00174_ノーマル_平均pt_初期pt_狙い_偶数_70G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00175_ノーマル_平均pt_初期pt_狙い_偶数_90G_あり,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00176_ノーマル_平均pt_初期pt_狙い_偶数_90G_なし,"machine": "ノーマル", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00177_ノーマル_初期pt_初期pt_狙い_奇数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00178_ノーマル_初期pt_初期pt_狙い_奇数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00179_ノーマル_初期pt_初期pt_狙い_奇数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00180_ノーマル_初期pt_初期pt_狙い_奇数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00181_ノーマル_初期pt_初期pt_狙い_奇数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00182_ノーマル_初期pt_初期pt_狙い_奇数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00183_ノーマル_初期pt_初期pt_狙い_奇数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00184_ノーマル_初期pt_初期pt_狙い_奇数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00185_ノーマル_初期pt_初期pt_狙い_偶数_30G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00186_ノーマル_初期pt_初期pt_狙い_偶数_30G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00187_ノーマル_初期pt_初期pt_狙い_偶数_50G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00188_ノーマル_初期pt_初期pt_狙い_偶数_50G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00189_ノーマル_初期pt_初期pt_狙い_偶数_70G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00190_ノーマル_初期pt_初期pt_狙い_偶数_70G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00191_ノーマル_初期pt_初期pt_狙い_偶数_90G_あり,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00192_ノーマル_初期pt_初期pt_狙い_偶数_90G_なし,"machine": "ノーマル", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00193_トランス_狙い_平均pt_平均pt_奇数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00194_トランス_狙い_平均pt_平均pt_奇数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00195_トランス_狙い_平均pt_平均pt_奇数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00196_トランス_狙い_平均pt_平均pt_奇数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00197_トランス_狙い_平均pt_平均pt_奇数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00198_トランス_狙い_平均pt_平均pt_奇数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00199_トランス_狙い_平均pt_平均pt_奇数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00200_トランス_狙い_平均pt_平均pt_奇数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00201_トランス_狙い_平均pt_平均pt_偶数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00202_トランス_狙い_平均pt_平均pt_偶数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00203_トランス_狙い_平均pt_平均pt_偶数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00204_トランス_狙い_平均pt_平均pt_偶数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00205_トランス_狙い_平均pt_平均pt_偶数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00206_トランス_狙い_平均pt_平均pt_偶数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00207_トランス_狙い_平均pt_平均pt_偶数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00208_トランス_狙い_平均pt_平均pt_偶数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00209_トランス_狙い_初期pt_平均pt_奇数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00210_トランス_狙い_初期pt_平均pt_奇数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00211_トランス_狙い_初期pt_平均pt_奇数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00212_トランス_狙い_初期pt_平均pt_奇数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00213_トランス_狙い_初期pt_平均pt_奇数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00214_トランス_狙い_初期pt_平均pt_奇数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00215_トランス_狙い_初期pt_平均pt_奇数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00216_トランス_狙い_初期pt_平均pt_奇数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00217_トランス_狙い_初期pt_平均pt_偶数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00218_トランス_狙い_初期pt_平均pt_偶数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00219_トランス_狙い_初期pt_平均pt_偶数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00220_トランス_狙い_初期pt_平均pt_偶数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00221_トランス_狙い_初期pt_平均pt_偶数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00222_トランス_狙い_初期pt_平均pt_偶数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00223_トランス_狙い_初期pt_平均pt_偶数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00224_トランス_狙い_初期pt_平均pt_偶数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00225_トランス_狙い_平均pt_初期pt_奇数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00226_トランス_狙い_平均pt_初期pt_奇数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00227_トランス_狙い_平均pt_初期pt_奇数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00228_トランス_狙い_平均pt_初期pt_奇数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00229_トランス_狙い_平均pt_初期pt_奇数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00230_トランス_狙い_平均pt_初期pt_奇数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00231_トランス_狙い_平均pt_初期pt_奇数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00232_トランス_狙い_平均pt_初期pt_奇数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00233_トランス_狙い_平均pt_初期pt_偶数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00234_トランス_狙い_平均pt_初期pt_偶数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00235_トランス_狙い_平均pt_初期pt_偶数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00236_トランス_狙い_平均pt_初期pt_偶数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00237_トランス_狙い_平均pt_初期pt_偶数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00238_トランス_狙い_平均pt_初期pt_偶数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00239_トランス_狙い_平均pt_初期pt_偶数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00240_トランス_狙い_平均pt_初期pt_偶数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "平均pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00241_トランス_狙い_初期pt_初期pt_奇数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00242_トランス_狙い_初期pt_初期pt_奇数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00243_トランス_狙い_初期pt_初期pt_奇数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00244_トランス_狙い_初期pt_初期pt_奇数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00245_トランス_狙い_初期pt_初期pt_奇数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00246_トランス_狙い_初期pt_初期pt_奇数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00247_トランス_狙い_初期pt_初期pt_奇数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00248_トランス_狙い_初期pt_初期pt_奇数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00249_トランス_狙い_初期pt_初期pt_偶数_30G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00250_トランス_狙い_初期pt_初期pt_偶数_30G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00251_トランス_狙い_初期pt_初期pt_偶数_50G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00252_トランス_狙い_初期pt_初期pt_偶数_50G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00253_トランス_狙い_初期pt_初期pt_偶数_70G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00254_トランス_狙い_初期pt_初期pt_偶数_70G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00255_トランス_狙い_初期pt_初期pt_偶数_90G_あり,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00256_トランス_狙い_初期pt_初期pt_偶数_90G_なし,"machine": "トランス", "mode1": "狙い", "mode2": "初期pt", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00257_トランス_平均pt_狙い_平均pt_奇数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00258_トランス_平均pt_狙い_平均pt_奇数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00259_トランス_平均pt_狙い_平均pt_奇数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00260_トランス_平均pt_狙い_平均pt_奇数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00261_トランス_平均pt_狙い_平均pt_奇数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00262_トランス_平均pt_狙い_平均pt_奇数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00263_トランス_平均pt_狙い_平均pt_奇数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00264_トランス_平均pt_狙い_平均pt_奇数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00265_トランス_平均pt_狙い_平均pt_偶数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00266_トランス_平均pt_狙い_平均pt_偶数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00267_トランス_平均pt_狙い_平均pt_偶数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00268_トランス_平均pt_狙い_平均pt_偶数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00269_トランス_平均pt_狙い_平均pt_偶数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00270_トランス_平均pt_狙い_平均pt_偶数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00271_トランス_平均pt_狙い_平均pt_偶数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00272_トランス_平均pt_狙い_平均pt_偶数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00273_トランス_初期pt_狙い_平均pt_奇数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00274_トランス_初期pt_狙い_平均pt_奇数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00275_トランス_初期pt_狙い_平均pt_奇数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00276_トランス_初期pt_狙い_平均pt_奇数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00277_トランス_初期pt_狙い_平均pt_奇数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00278_トランス_初期pt_狙い_平均pt_奇数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00279_トランス_初期pt_狙い_平均pt_奇数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00280_トランス_初期pt_狙い_平均pt_奇数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00281_トランス_初期pt_狙い_平均pt_偶数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00282_トランス_初期pt_狙い_平均pt_偶数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00283_トランス_初期pt_狙い_平均pt_偶数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00284_トランス_初期pt_狙い_平均pt_偶数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00285_トランス_初期pt_狙い_平均pt_偶数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00286_トランス_初期pt_狙い_平均pt_偶数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00287_トランス_初期pt_狙い_平均pt_偶数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00288_トランス_初期pt_狙い_平均pt_偶数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "平均pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00289_トランス_平均pt_狙い_初期pt_奇数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00290_トランス_平均pt_狙い_初期pt_奇数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00291_トランス_平均pt_狙い_初期pt_奇数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00292_トランス_平均pt_狙い_初期pt_奇数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00293_トランス_平均pt_狙い_初期pt_奇数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00294_トランス_平均pt_狙い_初期pt_奇数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00295_トランス_平均pt_狙い_初期pt_奇数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00296_トランス_平均pt_狙い_初期pt_奇数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00297_トランス_平均pt_狙い_初期pt_偶数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00298_トランス_平均pt_狙い_初期pt_偶数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00299_トランス_平均pt_狙い_初期pt_偶数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00300_トランス_平均pt_狙い_初期pt_偶数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00301_トランス_平均pt_狙い_初期pt_偶数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00302_トランス_平均pt_狙い_初期pt_偶数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00303_トランス_平均pt_狙い_初期pt_偶数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00304_トランス_平均pt_狙い_初期pt_偶数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00305_トランス_初期pt_狙い_初期pt_奇数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00306_トランス_初期pt_狙い_初期pt_奇数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00307_トランス_初期pt_狙い_初期pt_奇数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00308_トランス_初期pt_狙い_初期pt_奇数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00309_トランス_初期pt_狙い_初期pt_奇数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00310_トランス_初期pt_狙い_初期pt_奇数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00311_トランス_初期pt_狙い_初期pt_奇数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00312_トランス_初期pt_狙い_初期pt_奇数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00313_トランス_初期pt_狙い_初期pt_偶数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00314_トランス_初期pt_狙い_初期pt_偶数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00315_トランス_初期pt_狙い_初期pt_偶数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00316_トランス_初期pt_狙い_初期pt_偶数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00317_トランス_初期pt_狙い_初期pt_偶数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00318_トランス_初期pt_狙い_初期pt_偶数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00319_トランス_初期pt_狙い_初期pt_偶数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00320_トランス_初期pt_狙い_初期pt_偶数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "狙い", "mode3": "初期pt", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00321_トランス_平均pt_平均pt_狙い_奇数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00322_トランス_平均pt_平均pt_狙い_奇数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00323_トランス_平均pt_平均pt_狙い_奇数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00324_トランス_平均pt_平均pt_狙い_奇数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00325_トランス_平均pt_平均pt_狙い_奇数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00326_トランス_平均pt_平均pt_狙い_奇数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00327_トランス_平均pt_平均pt_狙い_奇数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00328_トランス_平均pt_平均pt_狙い_奇数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00329_トランス_平均pt_平均pt_狙い_偶数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00330_トランス_平均pt_平均pt_狙い_偶数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00331_トランス_平均pt_平均pt_狙い_偶数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00332_トランス_平均pt_平均pt_狙い_偶数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00333_トランス_平均pt_平均pt_狙い_偶数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00334_トランス_平均pt_平均pt_狙い_偶数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00335_トランス_平均pt_平均pt_狙い_偶数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00336_トランス_平均pt_平均pt_狙い_偶数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00337_トランス_初期pt_平均pt_狙い_奇数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00338_トランス_初期pt_平均pt_狙い_奇数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00339_トランス_初期pt_平均pt_狙い_奇数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00340_トランス_初期pt_平均pt_狙い_奇数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00341_トランス_初期pt_平均pt_狙い_奇数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00342_トランス_初期pt_平均pt_狙い_奇数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00343_トランス_初期pt_平均pt_狙い_奇数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00344_トランス_初期pt_平均pt_狙い_奇数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00345_トランス_初期pt_平均pt_狙い_偶数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00346_トランス_初期pt_平均pt_狙い_偶数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00347_トランス_初期pt_平均pt_狙い_偶数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00348_トランス_初期pt_平均pt_狙い_偶数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00349_トランス_初期pt_平均pt_狙い_偶数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00350_トランス_初期pt_平均pt_狙い_偶数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00351_トランス_初期pt_平均pt_狙い_偶数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00352_トランス_初期pt_平均pt_狙い_偶数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "平均pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00353_トランス_平均pt_初期pt_狙い_奇数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00354_トランス_平均pt_初期pt_狙い_奇数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00355_トランス_平均pt_初期pt_狙い_奇数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00356_トランス_平均pt_初期pt_狙い_奇数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00357_トランス_平均pt_初期pt_狙い_奇数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00358_トランス_平均pt_初期pt_狙い_奇数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00359_トランス_平均pt_初期pt_狙い_奇数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00360_トランス_平均pt_初期pt_狙い_奇数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00361_トランス_平均pt_初期pt_狙い_偶数_30G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00362_トランス_平均pt_初期pt_狙い_偶数_30G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00363_トランス_平均pt_初期pt_狙い_偶数_50G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00364_トランス_平均pt_初期pt_狙い_偶数_50G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00365_トランス_平均pt_初期pt_狙い_偶数_70G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00366_トランス_平均pt_初期pt_狙い_偶数_70G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00367_トランス_平均pt_初期pt_狙い_偶数_90G_あり,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00368_トランス_平均pt_初期pt_狙い_偶数_90G_なし,"machine": "トランス", "mode1": "平均pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
+{"src": 00369_トランス_初期pt_初期pt_狙い_奇数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "あり"}
+{"src": 00370_トランス_初期pt_初期pt_狙い_奇数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "30G", "veteran": "なし"}
+{"src": 00371_トランス_初期pt_初期pt_狙い_奇数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "あり"}
+{"src": 00372_トランス_初期pt_初期pt_狙い_奇数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "50G", "veteran": "なし"}
+{"src": 00373_トランス_初期pt_初期pt_狙い_奇数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "あり"}
+{"src": 00374_トランス_初期pt_初期pt_狙い_奇数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "70G", "veteran": "なし"}
+{"src": 00375_トランス_初期pt_初期pt_狙い_奇数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "あり"}
+{"src": 00376_トランス_初期pt_初期pt_狙い_奇数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "奇数", "g": "90G", "veteran": "なし"}
+{"src": 00377_トランス_初期pt_初期pt_狙い_偶数_30G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "あり"}
+{"src": 00378_トランス_初期pt_初期pt_狙い_偶数_30G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "30G", "veteran": "なし"}
+{"src": 00379_トランス_初期pt_初期pt_狙い_偶数_50G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "あり"}
+{"src": 00380_トランス_初期pt_初期pt_狙い_偶数_50G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "50G", "veteran": "なし"}
+{"src": 00381_トランス_初期pt_初期pt_狙い_偶数_70G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "あり"}
+{"src": 00382_トランス_初期pt_初期pt_狙い_偶数_70G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "70G", "veteran": "なし"}
+{"src": 00383_トランス_初期pt_初期pt_狙い_偶数_90G_あり,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "あり"}
+{"src": 00384_トランス_初期pt_初期pt_狙い_偶数_90G_なし,"machine": "トランス", "mode1": "初期pt", "mode2": "初期pt", "mode3": "狙い", "parity": "偶数", "g": "90G", "veteran": "なし"}
