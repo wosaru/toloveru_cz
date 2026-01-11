@@ -1,34 +1,26 @@
-/* style.css */
-
-/* 余計なUIを排除 */
 body {
-    margin: 0;
-    padding: 10px;
-    font-family: sans-serif;
+  font-family: sans-serif;
+  margin: 20px;
 }
 
-/* 条件UI */
-#controls {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin-bottom: 10px;
+#filters {
+  margin-bottom: 20px;
 }
 
-select {
-    padding: 4px 6px;
-    font-size: 14px;
+.filter-group {
+  margin-bottom: 10px;
 }
 
-/* 画像表示 */
 #gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 #gallery img {
-    display: block;
-    max-width: none; /* オリジナルサイズ */
-    height: auto;
+  /* オリジナルサイズ表示 */
+  width: auto;
+  height: auto;
+  max-width: none;
+  max-height: none;
 }
