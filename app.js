@@ -474,7 +474,8 @@ conditionKeys.forEach(key => {
 ==============================
 */
 
-const STORAGE_KEY = "imageFilterFavorites";
+const STORAGE_KEY =
+  "imageFilterFavorites_" + location.pathname;
 
 function getFavorites() {
   return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -585,6 +586,7 @@ function update() {
 
 refreshFavoriteList();
 update();
+
 
 
 
