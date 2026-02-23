@@ -156,6 +156,7 @@ button:hover {
 
 .tool-title {
   max-width: 970px;
+  width: fit-content;
   margin: 0 auto 4px 0;
   padding: 4px 4px;
   font-size: 1.4rem;
@@ -165,6 +166,7 @@ button:hover {
   border-radius: 10px;
   text-align: center;
 }
+
 
 
 
